@@ -1,7 +1,7 @@
 <template>
   <div v-if="isOpen" class="modal-overlay" @click.self="closeModal">
     <div class="modal-content">
-      <button @click="closeModal" class="close-modal-btn">Cerrar</button>
+      <button @click="closeModal" class="close-modal-btn">Close</button>
       <h2>Create a New Note</h2>
 
       <div class="modal-form">
