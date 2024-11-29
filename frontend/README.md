@@ -13,6 +13,9 @@ Este es el frontend de una aplicación de lista de tareas (To-Do List) desarroll
 -Abre el navegador y accede a http://localhost:8081
 C-rea una nueva tarea ingresando el título y la descripción
 -Edita o elimina tareas existentes
+
+## Diseño:
+https://www.figma.com/design/8Y2fcv5JFKUFgf78rIudoC/Untitled?node-id=0-1&t=hRbTpZmCPn6z31cG-1
 ## Desarrollo
 
 Crear esta aplicación con Nuxt.js, una herramienta que considero es muy interesante pero tambien desafiante si no la usas mucho, fue una experiencia que me permitió entender y apreciar mejor las páginas estáticas. Al principio, me sentí un poco abrumada por la cantidad de opciones y configuraciones disponibles en Nuxt.js, pero a medida que avanzaba en el desarrollo de la aplicación, comencé a darme cuenta de la potencia y la flexibilidad que ofrecen las páginas estáticas.
