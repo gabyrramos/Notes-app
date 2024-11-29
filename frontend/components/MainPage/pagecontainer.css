@@ -1,0 +1,30 @@
+h1{
+  margin-right: 20px;
+  margin-left: 10px;
+}
+
+.headercontainer{
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+.addbutton {
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.addbutton:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.addbutton:active {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombreado más intenso al hacer clic */
+  transform: translateY(1px); /* Movimiento ligero hacia abajo al hacer clic */
+}
+
+
