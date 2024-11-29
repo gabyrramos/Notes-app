@@ -27,12 +27,12 @@
   background: none;
   border: none;
   font-size: 1.2rem;
-  color: #6a3bff;
+  color: #693bffce;
   cursor: pointer;
 }
 
 .close-modal-btn:hover {
-  color: #5a2ab8;
+  color: #592ab8ca;
 }
 
 .modal-form {
@@ -61,7 +61,7 @@
 
 .save-btn {
   padding: 0.8rem;
-  background-color: #6a3bff;
+  background-color: #693bff6a;
   color: white;
   border: none;
   border-radius: 8px;
@@ -70,5 +70,5 @@
 }
 
 .save-btn:hover {
-  background-color: #5a2ab8;
+  background-color: #592ab8b5;
 }

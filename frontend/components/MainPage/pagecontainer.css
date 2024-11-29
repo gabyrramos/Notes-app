@@ -23,8 +23,8 @@ h1{
 }
 
 .addbutton:active {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombreado más intenso al hacer clic */
-  transform: translateY(1px); /* Movimiento ligero hacia abajo al hacer clic */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  transform: translateY(1px); 
 }
 
 

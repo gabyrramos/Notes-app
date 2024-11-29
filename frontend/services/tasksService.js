@@ -8,7 +8,7 @@ export const fetchTasks = async () => {
     return response.data;
   } catch (error) {
     console.error("Error fetching tasks:", error);
-    throw error; // Opcional: Permite que el frontend maneje el error.
+    throw error; 
   }
 };
 

@@ -8,7 +8,6 @@ const TaskSchema = new mongoose.Schema({
   updatedAt: { type: Date, default: Date.now }
 });
 
-// Middleware para actualizar el campo `updatedAt` antes de guardar un documento
 TaskSchema.pre('save', function (next) {
   if (this.isModified()) {
     this.updatedAt = Date.now();
