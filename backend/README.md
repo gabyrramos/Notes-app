@@ -59,7 +59,7 @@ Actualiza una tarea existente.
 
 
 - DELETE /:id
-Elimina una tarea específica por su ID.
+Elimina una tarea específica por ID.
 
 
 ## Base de datos
